@@ -1,2 +1,2 @@
 # menu
-simple menu in python 
+simple radiobuttons in python 
